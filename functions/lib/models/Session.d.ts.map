@@ -1,0 +1,1 @@
+{"version":3,"file":"Session.d.ts","sourceRoot":"","sources":["../../src/models/Session.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,KAAK,MAAM,gBAAgB,CAAC;AACxC,MAAM,WAAW,OAAO;IACtB,QAAQ,EAAE,KAAK,CAAC,SAAS,CAAC,SAAS,CAAC;IACpC,MAAM,EAAE,KAAK,CAAC,SAAS,CAAC,SAAS,CAAC;IAClC,UAAU,EAAE,KAAK,CAAC,SAAS,CAAC,SAAS,GAAG,IAAI,CAAC;CAC9C"}

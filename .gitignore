@@ -47,6 +47,9 @@ build/Release
 # Dependency directories
 node_modules/
 
+# functions directory
+functions/lib
+
 # Optional npm cache directory
 .npm
 

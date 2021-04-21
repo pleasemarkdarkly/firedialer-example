@@ -1,1 +1,0 @@
-{"version":3,"file":"SendSlackMessage.d.ts","sourceRoot":"","sources":["../../src/slack/SendSlackMessage.ts"],"names":[],"mappings":"AAGA,OAAO,EAAE,aAAa,EAAE,MAAM,gBAAgB,CAAC;AAG/C,eAAO,MAAM,gBAAgB,YAAmB,aAAa,WAAW,MAAM,mDAc7E,CAAC"}

@@ -1,1 +1,0 @@
-{"version":3,"file":"parser.d.ts","sourceRoot":"","sources":["../../../../src/express/routers/twilio/parser.ts"],"names":[],"mappings":"AAKA,aAAK,kBAAkB,GAAG,CAAC,MAAM,EAAE,MAAM,EAAE,MAAM,CAAC,CAAC;AACnD,qBAAa,kBAAkB;IAC3B,MAAM,CAAC,OAAO,MAAC;;IAMf,OAAc,mBAAmB,YAAa,MAAM;;MAgCnD;IAED,OAAc,KAAK,kDAiElB;CACJ"}

@@ -35,6 +35,8 @@ In the `auto-dialer`, also called, `questionnaire` mode, the IVR system is confi
 * optOut IVR and SMS menu system
 * consolidated IVR script
 
+![Tammy and the T-Rex](./images/tammy-t-rex.png | width=600)
+
 ## Environment Variables, API Keys, Helper Scripts
 The first order of business is to update the function folder's `.env.production` and `set-env.sh` with all your API keys. In `scripts` a copy of this `set-env.sh` script is provided. In short loading your production, staging Firebase config, API keys via the `set-env.sh` will ready you to easily run a simple command to export into the development environment or set up with `firebase functions:config:set` and auto generate the .`runtimeconfig.json`.  `kill_ports.sh` - As the name suggests, provides you with a list of ports which are in use and the ability to kill the process that is holding on to them. Useful for misbehaving hot reloaders. 
 
